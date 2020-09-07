@@ -1,0 +1,19 @@
+.heading{
+  width: 100%;
+  padding: 10px;
+  background: #F9E79F;
+  text-align: center;
+}
+
+.faeye{
+  color:#2E86C1;
+  cursor: pointer;
+}
+.faedit{
+  color:#F1C40F;
+  cursor: pointer;
+}
+.fatrash{
+  color:#CB4335;
+  cursor: pointer;
+}
